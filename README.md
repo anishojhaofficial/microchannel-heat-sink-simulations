@@ -1,10 +1,10 @@
-# Ultra-Low Pressure Drop Microchannel Heat Sink Simulations
+## Ultra-Low Pressure Drop Microchannel Heat Sink Simulations
 
 Finite-element-based thermo-fluidic simulations for the design and analysis of ultra-low pressure drop microchannel heat sinks for chip-level electronic cooling applications.
 
 ---
 
-## Objectives
+### Objectives
 
 - Reduce pressure drop in microchannel cooling systems
 - Improve thermal uniformity across chip surfaces
@@ -13,7 +13,7 @@ Finite-element-based thermo-fluidic simulations for the design and analysis of u
 
 ---
 
-## Methods & Computational Framework
+### Methods & Computational Framework
 
 - **COMSOL Multiphysics**
 - Finite Element Method (FEM)
@@ -23,7 +23,7 @@ Finite-element-based thermo-fluidic simulations for the design and analysis of u
 
 ---
 
-## Simulation Parameters
+### Simulation Parameters
 
 - Reynolds number variation
 - Pressure-drop analysis
@@ -32,7 +32,7 @@ Finite-element-based thermo-fluidic simulations for the design and analysis of u
 
 ---
 
-## Project Status
+### Project Status
 
 This is an ongoing computational research project focused on thermo-fluidic optimization of microchannel heat sink geometries for chip-level cooling applications.
 
@@ -44,6 +44,6 @@ Current work involves:
 
 ---
 
-## Note
+### Note
 
 Due to the large size of COMSOL simulation files, only selected simulation outputs and representative analysis visualizations are included in this repository.
